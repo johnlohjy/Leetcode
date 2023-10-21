@@ -8,3 +8,8 @@
 
 # DP 1D
 1. Pascals Triangle
+2. House Robber 2
+3. Coin Change
+
+# DP 2D
+1. LCS
